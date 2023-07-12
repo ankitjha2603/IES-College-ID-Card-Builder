@@ -17,14 +17,6 @@ This project is an ID card builder specifically designed for IES College of Tech
 - JavaScript
 - Bootstrap
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository.
-2. Open the `index.html` file in a web browser.
-3. Customize the ID card information as needed.
-4. Click the "Print" button to generate and download the ID card.
 
 ## Directory Structure
 
@@ -38,10 +30,3 @@ To run this project locally, follow these steps:
 
 - The project utilizes the [html2canvas](https://html2canvas.hertzen.com/) library for generating the ID card image.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this documentation further to match the specifics of your project, add additional sections if needed, and provide any additional information you think is relevant.
