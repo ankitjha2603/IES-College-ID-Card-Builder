@@ -1,6 +1,6 @@
 # IES College ID Card Builder
 
-This project is an ID card builder specifically designed for IES College of Technology. It allows users to generate and customize ID cards by inputting their information. The generated ID card can be downloaded in various formats.
+This project is an ID card builder specifically designed for IES College of Technology. It allows users to generate and customize ID cards by inputting their information. The generated ID card can be downloaded.
 
 ## Features
 
