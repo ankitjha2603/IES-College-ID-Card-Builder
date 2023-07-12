@@ -4,6 +4,7 @@
 :root {
     --theme-dard-green: rgb(0%, 50.19989%, 21.569824%);
     --theme-light-green: rgb(49.409485%, 85.099792%, 34.118652%);
+    --second-color: #1A2D5A
 }
 
 #id-card {
@@ -104,7 +105,7 @@ img.ies-icon {
     display: flex;
     height: 199px;
     font-family: 'Roboto', sans-serif;
-    color: #1A2D5A !important;
+    color: var(--second-color) !important;
     font-weight: 600;
 }
 
@@ -152,95 +153,14 @@ img.ies-icon {
 }
 
 button#button {
-    margin: 10px;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
-
-    button#button {
-        padding: 5px 14px;
-        color: #1A2D5A;
-        border: none;
-        border-radius: 5px;
-    }
-
-    ;
     padding: 5px 14px;
-    color: #1A2D5A;
-    border: none;
+    color: var(--second-color);
+    margin-left: 15px;
     border-radius: 5px;
+    border: 2px solid var(--second-color);
 }
 
 button#button:hover {
-    background-color: #1A2D5A;
+    background-color: var(--second-color);
     color: white;
 }
