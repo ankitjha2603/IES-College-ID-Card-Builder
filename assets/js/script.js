@@ -8,7 +8,7 @@ function name() {
   }
   let currArr = currname.split(" ");
   let currName = currArr.join(".");
-  return currName + new Date().getTime();
+  return `${currName}${new Date().getTime()}.png`;
 }
 function saveScreenshot(element) {
   html2canvas(element).then(function (canvas) {
